@@ -1,13 +1,3 @@
-// 159261 Assignment 1 - Greshka Lao 22012395
-
-/* EXTRA FEATURES */
-// - enabled multiplayer.
-// - in multiplayer, players can lose when their head hits the other's body.
-// - menu for when game is over/completed and who wins, which can enable replay.
-// - "help" function that shows instructions.
-// - displays scores of player(s) while playing.
-// - keeps track of high score in single player and displays it.
-
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
