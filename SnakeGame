@@ -12,11 +12,11 @@ import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
 
-public class LaoG_22012395_Assignment1 extends GameEngine 
+public class SnakeGame extends GameEngine 
 {
     public static void main(String args[]) 
     {
-        createGame(new LaoG_22012395_Assignment1(), 10);
+        createGame(new SnakeGame(), 10);
     }
 
     /*-----------------------------------------*/
