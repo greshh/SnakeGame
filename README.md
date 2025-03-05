@@ -3,6 +3,8 @@ _**Start:** March 30<sup>th</sup> 2023, **Finish:** April 24<sup>th</sup> 2023_
 
 For a second year course: Games Programming
 
+`GameEngine.java` was developed by the Massey University lecturers and was already provided to be used for the assignment.
+
 ## Scenario
 
 Develop a Java version of the classic game Snake. The game will allow a user to control the movement of the snake using the keyboard's cursor controls. The player will initially control a three-circle player object (Snake with red head and green body), which will move one cell at a time on the X or Y axis, representing the game world. As the player consumes a green apple, the snake will in turn grow by 1.
