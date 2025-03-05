@@ -20,3 +20,28 @@ Use an Array or an ArrayList to represent the body of the snake using a maximum 
 **Snake Collisions:**
 
 The game will end if the snake collides with itself or with the borders of the game. 
+
+## How to Play
+
+To pause / show "help" menu / instructions = `ESC` key
+
+**Player 1 (red/green snake):**
+- UP = `UP` arrow
+- DOWN = `DOWN` arrow
+- LEFT = `LEFT` arrow
+- RIGHT = `RIGHT` arrow
+
+**Player 2 (blue/yellow snake):**
+- UP = `W` key
+- DOWN = `S` key
+- LEFT = `A` key
+- RIGHT = `D` key
+
+## Extra Features
+- Enabled multiplayer.
+- In multiplayer, players can lose when their head hits the other's body.
+- Screen clears/displays text for when game is over/completed, which can enable replay - shows who wins in multiplayer.
+- "Help" menu that shows instructions when pressing 'esc' key.
+- Displays scores of player(s) while playing.
+- Keeps track of high score in single player and displays it.
+
